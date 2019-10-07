@@ -1,0 +1,15 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jsdom": "^15.1.1",
+    "node-cron": "^2.0.3",
+    "node-notifier": "^6.0.0"
+  }
+}
